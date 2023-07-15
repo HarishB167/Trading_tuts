@@ -1,0 +1,73 @@
+Elearnmarkets
+Title : Simple Intraday Trading Strategies ! #Face2Face with Yashraj Rana
+Link : https://www.youtube.com/watch?v=2VQc7HwgS7M
+
+Date - 15.07.2023
+
+---------------------------------------------------
+Section 1 : Step 1 - Path to Profitability
+
+- 90% traders are not successful,
+only 5% makes money.
+
+- First don't try to earn profit or to have monthly earning,
+but focus on preventing giving (losing) money to market.
+
+- Then after some time try to goto (jump) profitability side.
+* Not easy
+* Discipline is needed
+* Hardwork and everyday research
+
+- Answer questions as a trader
+* What are you expecting from market?
+Big mistake : expect too much from market.
+Market is get rich slowly scheme.
+
+- Trading system
+* Should be designed and followed.
+* Trading setup is small part of this system.
+* Risk management (most important)
+Max loss, Position sizing
+* Trade management (very important)
+Entry and SL level, Profit booking & trailing
+* Technical analysis (important)
+Patterns and trade setup
+* Tuning psychology with setup is required
+Unable to follow setup if not tuned.
+You will understand that after lots of hits and misses.
+
+- Price Action (PA) - why?
+* It is the purest form of charts.
+* No analysis paralysis
+* Once you master PA reading, you can trade 
+any assets class eg: stocks/indices/currency etc.
+
+- DP trading for intraday
+* Decision point trade
+* There are few levels that are important for gauging the
+market sentiment and are likely to provide us the first
+clue to a continuation/reversal in the short term trend.
+> PDH: Previous day high
+> PDL: Previous day low
+> PDC: Previous day close
+> DO: Day open
+* Levels having - suspected breakout, high volume etc.
+* All 4 DPs are considered important in TA.
+* In range trading - PDH, PDL are used, which are range extremes for previous day.
+Continuation or reversal of trend happens
+* Make a system where only you get minimum to minimum no of trades.
+Take trade only these 2 levels, based on trade setup.
+* Minumum no of trades.
+> Either take fewer trades
+> Or take trades with small stoplos (not possible for newcomer)
+
+- Price Action trade setup
+* Figure out the larger trend
+* Mark DP levels where there can be increased volumes.
+* Observe PA at these DPs for any indication of trapped traders (buyer or seller).
+* Trade on the side of the side of stronger player(larger trend)
+* Take your profits and minimize risk at the first instance.
+* Additional points
+> As a beginner - book profit partially (75%) at 1:1 stoploss and
+remaining (25%) at target price. And let the market go in possible profit direction.
+
