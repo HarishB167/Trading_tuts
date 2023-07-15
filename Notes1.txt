@@ -71,3 +71,28 @@ Take trade only these 2 levels, based on trade setup.
 > As a beginner - book profit partially (75%) at 1:1 stoploss and
 remaining (25%) at target price. And let the market go in possible profit direction.
 
+- Trend following rules
+* In a down trend the down move is intact unless the closing of the day 
+is above the PDH.
+* In an uptrend the trend is considered intact unless the price 
+closes below the PDL.
+* Closing is actual closing and not the exchange calculated
+average. Trade happened at 03:30 PM
+
+- 3 Tradeable setups
+* PDH/PDL trades: Trades only at these DP levels.
+Easy to Trade. Non profitable traders should only
+trade this setup.
+* TCC Trades: Trend-consolidation continuation trades.
+Moderately easy to trade.
+* VWAP Trades: Trade only after observing PA at vwap.
+Not easy to trade.
+
+- Trade Dairy
+* Date, SL, 1RR, SL, 2RR, Remarks,
+Trend remarks, emptyCol, Winners, Losers, Scratch
+* 18 out of 40 days traded.
+* Scratch - trade doesn't hit anyone, target or stoploss.
+* 3 minutes candle
+
+Completed till 23:33
