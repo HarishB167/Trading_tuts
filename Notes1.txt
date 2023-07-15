@@ -95,4 +95,22 @@ Trend remarks, emptyCol, Winners, Losers, Scratch
 * Scratch - trade doesn't hit anyone, target or stoploss.
 * 3 minutes candle
 
-Completed till 23:33
+- Daily Charts
+* Close of 17th is below low of 16th
+* 17th is trend change day
+* Find short trade in 18th, at previous day(17th) high or low.
+* Don't take trade till 09:30
+
+- 3 min candle
+* On 18th day, let price go below previous day(17th) low.
+* Wait till it moves direction to up, then after again downwards continuation.
+* When it reaches current day's low, then take trade.
+* Stop loss at price where direction changed from up to down, near previous day low.
+* If price goes to 1RR, then close 50% position and move SL to entry price.
+* Then if price goes to 2RR the close remaining position.
+* Now, do nothing, wait till it comes to previous day(17th) high or low.
+
+- Trend change day
+* On 24th day trend changed, price closed above high of previous day.
+
+Completed till 40:30
