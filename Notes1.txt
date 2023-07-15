@@ -80,6 +80,7 @@ closes below the PDL.
 average. Trade happened at 03:30 PM
 
 - 3 Tradeable setups
+* 60-65% accuracy
 * PDH/PDL trades: Trades only at these DP levels.
 Easy to Trade. Non profitable traders should only
 trade this setup.
@@ -113,4 +114,24 @@ Trend remarks, emptyCol, Winners, Losers, Scratch
 - Trend change day
 * On 24th day trend changed, price closed above high of previous day.
 
-Completed till 40:30
+- Discussion Points
+* A non profitable trader should stick to the PDH/PDL trade setup 
+for the next 100 days.
+* Focus should be on getting into the top 5% traders club. The amount
+of profit is not important at this point.
+* A winning psychology is a must to have to scale up your success.
+Knowing you are profitable is a like a runners high. It spurs you
+for further progress.
+* As one progresses in studying PA, then can start trading patterns like V/W, triangle and rectangles. These have higher risk reward setups.
+* Finaly one gets to swim with the big fish trading only on S/R.
+* Self study/training and mentoring are all important. What you choose
+depends on your own schedule and hunger for success.
+
+- Conclusion
+* Target to just get out of the non profitable club.
+* Respect risk.
+* Don't be afraid to pull the trigger when the setup unfolds.
+* Success breads success.
+
+- Last 2 setups left : TODO
+
